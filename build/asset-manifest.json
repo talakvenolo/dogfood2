@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/dogfood2/static/css/main.0c4a6cc6.css",
+    "main.js": "/dogfood2/static/js/main.8c2d8816.js",
+    "static/media/banner.png": "/dogfood2/static/media/banner.051e6f9f3764ca4ea59e.png",
+    "static/media/logo.svg": "/dogfood2/static/media/logo.4f9d699de55eb25e196ecc4c87a15a5e.svg",
+    "static/media/quality.svg": "/dogfood2/static/media/quality.8eb6560a188790582a8aaddc99e116ea.svg",
+    "static/media/instagram.svg": "/dogfood2/static/media/instagram.54cbf40d1b69370b6a2ec029eefc269c.svg",
+    "static/media/vk.svg": "/dogfood2/static/media/vk.5a6b12bf142f67e2138c1e6c69952975.svg",
+    "static/media/profile.svg": "/dogfood2/static/media/profile.999eff15d90a1c3ca4ac06bcb321a858.svg",
+    "static/media/viber.svg": "/dogfood2/static/media/viber.b4234cd18a8ffefb8ebb172506996cea.svg",
+    "static/media/whatsapp.svg": "/dogfood2/static/media/whatsapp.51cbd71440eaa90946070b8848c12129.svg",
+    "static/media/ic-notfound.svg": "/dogfood2/static/media/ic-notfound.589dfdd506a1bfa9697d4a32f73991eb.svg",
+    "static/media/favorites.svg": "/dogfood2/static/media/favorites.8afe51a3c0478c39f05c6dc2649cd60b.svg",
+    "static/media/save.svg": "/dogfood2/static/media/save.65277ad5538e2dd736d5a339ad1051ab.svg",
+    "static/media/truck.svg": "/dogfood2/static/media/truck.ea6acb9f2b133040e9f295fbb9f2a3ab.svg",
+    "static/media/logout.svg": "/dogfood2/static/media/logout.17e6099a401fe7b0e792ab32c2cf9a7d.svg",
+    "static/media/ic-close-input.svg": "/dogfood2/static/media/ic-close-input.f01e03cf609912dcdf78b1a91e354837.svg",
+    "static/media/star.svg": "/dogfood2/static/media/star.68de896b5b44a0fa1478b96d2793992a.svg",
+    "static/media/ic-search.svg": "/dogfood2/static/media/ic-search.296528dfccff6373f75e8f75d02e833a.svg",
+    "index.html": "/dogfood2/index.html",
+    "static/media/leftArrow.svg": "/dogfood2/static/media/leftArrow.5000f9a0272d00e6ab2e085d023625b3.svg",
+    "static/media/telegram.svg": "/dogfood2/static/media/telegram.95a5ca8a1ae0a13c18da2bca3f249bf5.svg",
+    "static/media/arrow.svg": "/dogfood2/static/media/arrow.6e6d5e122e20064df60a3de2971466b4.svg",
+    "main.0c4a6cc6.css.map": "/dogfood2/static/css/main.0c4a6cc6.css.map",
+    "main.8c2d8816.js.map": "/dogfood2/static/js/main.8c2d8816.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c4a6cc6.css",
+    "static/js/main.8c2d8816.js"
+  ]
+}
